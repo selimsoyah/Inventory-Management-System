@@ -7,7 +7,7 @@ export default function Home() {
             Inventory management software
           
         </h2>
-        <Link href='/dashboard/home/overview/dashboard.jsx'>view Dashboard</Link>
+        <Link href='/dashboard/home/overview'>view Dashboard</Link>
     </div>
     
   );

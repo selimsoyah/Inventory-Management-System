@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from '@/components/dashboard/Header'
+
 function Layout({children}) {
   return (
     <div className='flex'>
